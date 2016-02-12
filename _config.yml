@@ -1,0 +1,28 @@
+name: PowerBobber
+favicon: null
+layout_spectrum: 0.4666853004600853
+typography_spectrum: 0.7637060771230608
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.263935926835984
+  lightness: 0.029114163713529706
+  saturation: 0.06950678979046643
+  rhythmicContrast: 0.05076613649725914
+purpose: []
